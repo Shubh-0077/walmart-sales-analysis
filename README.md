@@ -33,8 +33,8 @@ This project analyzes Walmart sales data to uncover business insights using Pyth
 walmart-sales-analysis/
 │
 │── raw_data/
-│   └── walmart_sales.csv
-│   └── problem_statement.pdf
+│   └── Walmart Business Questions & Insights.pdf
+|   └── walmart_sales.csv
 |
 ├── notebook/
 │   └── walmart_analysis.ipynb
