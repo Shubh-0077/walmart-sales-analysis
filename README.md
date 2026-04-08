@@ -14,7 +14,7 @@ This project analyzes Walmart sales data to uncover business insights using Pyth
 
 ## 🛠 Tools Used
 
-* Python (Pandas, NumPy)
+* Python (Pandas)
 * Jupyter Notebook
 * SQL (PostgreSQL / MySQL)
 * Data Visualization (Matplotlib / Seaborn)
