@@ -16,8 +16,7 @@ This project analyzes Walmart sales data to uncover business insights using Pyth
 
 * Python (Pandas)
 * Jupyter Notebook
-* SQL (PostgreSQL / MySQL)
-* Data Visualization (Matplotlib / Seaborn)
+* SQL (PostgreSQL)
 
 ## 🔄 Workflow
 
@@ -33,13 +32,11 @@ This project analyzes Walmart sales data to uncover business insights using Pyth
 ```
 walmart-sales-analysis/
 │
-│── data/
+│── raw_data/
 │   └── walmart_sales.csv
-│
-├── problem_statement/
-│   └── walmart_business_questions.pdf
-│
-├── notebooks/
+│   └── problem_statement.pdf
+|
+├── notebook/
 │   └── walmart_analysis.ipynb
 │
 ├── sql/
@@ -64,7 +61,7 @@ walmart-sales-analysis/
 * What product line sells the most?
 * What is the busiest time for sales?
 * Which customer type contributes most to revenue?
-* What payment method is most popular?
+* What payment method is most popular? & many more
 
 ## 🚀 Key Features
 
